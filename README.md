@@ -5,9 +5,7 @@ A travers ce mapping, je voulais simplement essayer de recréer la version 0.59 
 
 Grâce à quelques captures d'écran et à DayZ Editor, j'ai pu recréer la zone en retirant la végétation. Malheureusement, je ne peux pas niveler le sol, ce qui fait que les tentes sont parfois positionnées de manière chaotique.
 
-Donc, sans l'utilisation de "DayZ Editor Loader", vous ne pouvez pas voir correctement ce mapping.
-
-Je vous présente aujourd'hui ma petite version 0.59.
+Sans l'utilisation de "DayZ Editor Loader", vous ne pouvez pas voir correctement ce mapping.
 
                                                      ----------------///-----------------
 
