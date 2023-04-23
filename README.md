@@ -1,5 +1,5 @@
 # Myshkino_Military (Myshkino_tente_0.53)
-Mapping nostalgie Dayz 0.59
+Mapping nostalgie
 
 À travers ce mapping, je voulais simplement essayer de recréer la version 0.53 de la zone militaire de Myshkino. Cette zone a donné lieu pour moi à de bonnes séances de PVP dans les années 2016, malheureusement elle a été refaite par la suite.
 
