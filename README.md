@@ -7,6 +7,8 @@ Grâce à quelques captures d'écran et à DayZ Editor, j'ai pu recréer la zone
 
 Sans l'utilisation de "DayZ Editor Loader", vous ne pouvez pas voir correctement ce mapping.
 
+Source: https://www.youtube.com/watch?v=v5XwszGn8uE 
+
                                                      ----------------///-----------------
 
 Through this mapping, I simply wanted to try to recreate version 0.53 of the Myshkino tents Zone, which in 2016 was the site of some good PVP sessions, unfortunately this zone was later redone.
